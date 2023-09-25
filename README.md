@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-TO Study Review, for suggestions on study starters
+TO Study Review, for suggestions on study starters, Use CHROMEDEV tools
 
 ## Credits
 
